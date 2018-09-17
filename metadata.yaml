@@ -1,0 +1,49 @@
+_repo: Wonder-Stories-of-Travel_52268
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ingersoll, Ernest
+    birthdate: 1852
+    deathdate: 1946
+    gutenberg_agent_id: '39898'
+    url: http://www.gutenberg.org/2009/agents/39898
+  - agent_name: Brown, E. E. (Emma Elizabeth)
+    alias: Brown, Emma Elizabeth
+    birthdate: 1847
+    gutenberg_agent_id: '36881'
+    url: http://www.gutenberg.org/2009/agents/36881
+  - agent_name: Ker, David
+    birthdate: 1842
+    deathdate: 1914
+    gutenberg_agent_id: '43994'
+    url: http://www.gutenberg.org/2009/agents/43994
+  - agent_name: McCormick, Eliot
+    birthdate: 1849
+    deathdate: 1891
+    gutenberg_agent_id: '46750'
+    url: http://www.gutenberg.org/2009/agents/46750
+description: ''
+gutenberg_issued: '2016-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcc 'G'
+- GITenberg
+tableOfContents: A boy's race with General Grant at Ephesus -- Indian children and
+  their pets -- Riga in the chimney -- Seeing the Pope -- A lesson in Italian -- Feeding
+  ghosts in China -- The children of the Koppenberg -- A day at the Butts -- Tiny
+  feet of Chinese ladies -- Shetland ponies -- Mr. Sweet Potatoes -- Shetland women
+  -- Mardi Gras in Nice -- On the farm in winter -- A Chinaman's queue -- Mexican
+  water-carriers -- A very queer house -- In Belgium -- Joe the chimpanzee -- Market
+  day at Pau -- Il Santissimo Bambino -- Children under the snow -- The jewelled tomb
+  -- A night with Paul Boyton -- Boy-divers in the Red Sea -- St. Botolph's Town --
+  Some queer Americans -- The boy king of Egypt -- A child in Florence -- Cheerful
+  words.
+title: Wonder Stories of Travel
+url: http://www.gutenberg.org/ebooks/52268
